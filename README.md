@@ -42,8 +42,8 @@
 ---
 
 ## Documentation & Presentation
-- Documentation :
-- Presentation :
+- [Documentation](./Documentation/Trauma_Documentation.docx)
+- [Presentation](./Documentation/TRAUMA.pptx)
 
 ---
 
